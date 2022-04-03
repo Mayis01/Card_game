@@ -23,7 +23,3 @@ current_card.addEventListener("click",Card_flip);
 
 ///////////////////////////////////////////////////////////////
 
-////////////  Code by Mayis
-
-
-let black = "#000000";
